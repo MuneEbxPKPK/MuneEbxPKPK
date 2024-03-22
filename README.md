@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://muneebxpkpk.github.io/muneeb-simple-portfolio/index.html](https://muneebxpkpk.github.io/muneeb-simple-portfolio/index.html)
+- 👨‍💻 All of my projects are available [Here](https://muneebxpkpk.github.io/muneeb-simple-portfolio/projects.html)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/muneeb-ul-karim/](https://www.linkedin.com/in/muneeb-ul-karim/)
+- 📝 I regularly write articles on [My Linkedin](https://www.linkedin.com/in/muneeb-ul-karim/)
 
 - 💬 Ask me about **Three.js, Cannon-es, JavaScript**
 
